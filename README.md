@@ -1,4 +1,4 @@
-#BookLook - Your personal Read List App
+# BookLook - Your personal Read List App
 
 This is an app to create a check on the book that you've read.
 
